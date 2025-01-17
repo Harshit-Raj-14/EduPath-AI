@@ -155,7 +155,7 @@ function HomePage() {
           </span>
         </div>
 
-        <div 
+        {/* <div 
           onClick={() => navigate('/practice')}
           className="bg-gray-950 p-8 rounded-xl border border-blue-900/30 hover:border-blue-600/50 transition-all cursor-pointer group"
         >
@@ -164,7 +164,19 @@ function HomePage() {
           <span className="text-blue-500 group-hover:text-blue-400 font-medium">
             Start Coding →
           </span>
+        </div> */}
+
+        <div 
+          onClick={() => (window.location.href = 'https://ideakers.vercel.app/dashboard')}
+          className="bg-gray-950 p-8 rounded-xl border border-blue-900/30 hover:border-blue-600/50 transition-all cursor-pointer group"
+        >
+          <h3 className="text-xl font-bold text-white mb-4">Custom Generate Course</h3>
+          <p className="text-gray-400 mb-6">Generate Custom Course and start learning at your own pace today.</p>
+          <span className="text-blue-500 group-hover:text-blue-400 font-medium">
+            Start Learning →
+          </span>
         </div>
+
 
         <div 
           onClick={() => navigate('/mock-viva')}

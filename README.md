@@ -34,6 +34,13 @@ EduPath AI addresses these challenges by providing:
 - Progressive difficulty adjustment
 - Immediate doubt resolution
 
+
+### 🤖 Custom Course generator
+- Do hands on practice while going through the course
+- video recommendation, article recommendation, short notes, summary and quiz practice
+- Do hands on practice while going through the course
+- Gain certification, skill points and rise in leaderboard on completing course
+  
 ### 💻 Interactive Learning Environment
 - Built-in code editor for hands-on practice
 - Real-time code execution and feedback
